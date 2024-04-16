@@ -18,7 +18,7 @@ Group Members:
 
 ## Results
 
-Fianl added Mass matrix calculated at the center of boyouncy of the AUV. The added Mass consist of added masses of hull, antenna and thrusters. The effects of USBL has been considered non significant.
+Final added Mass matrix calculated at the center of boyouncy of the AUV. The added Mass consist of added masses of hull, antenna and thrusters. The effects of USBL has been considered non significant.
 
 $$ M_{added}^{CB} = 
 \begin{bmatrix}
